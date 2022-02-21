@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Netzfrequenz Überwachung</string>
+    <string name="tab_text_1">Aktuell</string>
+    <string name="tab_text_2">Verlauf</string>
+</resources>
